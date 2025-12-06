@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ---
 
 
-| Days    | Title                                                                                                | Repositry   | Youtube Links                                       |
+| Days    | Title                                                                                                | Repository   | Youtube Links                                       |
 |:--------|:-----------------------------------------------------------------------------------------------------|:------------|:----------------------------------------------------|
 | Day 1   | What is Machine Learning?                                                                            | - | [Link](https://www.youtube.com/watch?v=ZftI2fEz0Fw) |
 | Day 2   | AI Vs ML Vs DL for Beginners in Hindi                                                                | - | [Link](https://www.youtube.com/watch?v=1v3_AQ26jZ0) |
